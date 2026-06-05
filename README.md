@@ -1,6 +1,6 @@
 # mcr-ptm-annotator
 
-[![CI](https://github.com/CameronPiepkorn/mcr-ptm-annotator/actions/workflows/ci.yml/badge.svg)](https://github.com/CameronPiepkorn/mcr-ptm-annotator/actions)
+[![CI](https://github.com/CameronCat/mcr-ptm-annotator/actions/workflows/ci.yml/badge.svg)](https://github.com/CameronCat/mcr-ptm-annotator/actions)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -60,7 +60,7 @@ Wagner et al. 2016):
 ## Installation
 
 ```bash
-git clone https://github.com/CameronPiepkorn/mcr-ptm-annotator
+git clone https://github.com/CameronCat/mcr-ptm-annotator
 cd mcr-ptm-annotator
 pip install -e ".[dev]"
 ```
